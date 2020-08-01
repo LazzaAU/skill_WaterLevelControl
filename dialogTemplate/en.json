@@ -1,0 +1,7 @@
+{
+    "skill": "WaterLevelControl",
+    "icon": "time",
+    "description": "Monitor and control water level of your tanks",
+    "slotTypes": [],
+    "intents": []
+}
